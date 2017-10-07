@@ -1,0 +1,28 @@
+language: node_js
+node_js: 7
+cache:
+  directories:
+  - node_modules
+  - bower_components
+  - "${NVM_PATH}_modules"
+env:
+  matrix:
+  - CXX=g++-4.8
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - g++-4.8
+install:
+- npm install
+script: echo "Deploying!"
+before_deploy: npm run build
+deploy:
+- provider: firebase
+  skip_cleanup: true
+  on:
+    branch: master
+  project: devfest2017-e2657
+  token:
+    secure: "ik3PT2kUM6SQGn5DLaJkOlGTVUTUtISyZZ0EMvpJOinGX/7FTKCebviD9ME0KuK8/u3OdY+fXC2Ez1MoOJzLFRWyu6OO6MqUEk5x9YU78kd+EcaCYvv4pNR2nDxXaLv2Vap+SwONCUUQ+N4NSbeI4drkjPkkpgKjfKXfeV6QC9IEKU9iAhHbv0BxOFznpeb1IKy/vCTINfvF+FFEFfDdycqZHyvOD0B/blnLjL//UYY25AYelW+MAjrQX7OB1bCBo+Ydl9MSW7JZmc5WbRwryAjhqXPXYkAgw1iOJfx1g4Q4T6ueuesQK27ChnebwoQUlOhgrxkqOQYKQhSe9jFijzqABA6OCtw3p5k866RP1vCCsetvMMHl0cq7dOHUNdf6BNG4H63VLFw2wWOxlfjtj626msZ1e+Ezquxe6Vsqs+hPylJ1N0J07awIhrDOGvGyQj1pqwXjASccmRrX3SUUmKav7w0gmtCnGGOll9oGgbQCHPRCfPOG4iJgoLjY6IplU5cCKDncf8CGutTEXfyE53MPnJq70f+OhHow/tmutlYv8XHV1Nz9hTzHDslDPldbQLMe72hMe6KI5xa1YJr5SR0arkBxipKHOpm5nBcb34T9ywRRjkwBDAOrwpNrmGbHlJNP0zcl7RSaQJ+ZfEgk5FRhRoUwaa/J9/UE+BjgDf4="
