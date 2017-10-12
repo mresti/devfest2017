@@ -5,7 +5,7 @@
 
 <dom-module id="app-data">
   <template>
-    <iron-ajax auto url="[[postsSource]]" handle-as="json" on-response="_reversePosts"></iron-ajax>
+
 
     <firebase-document
       id="querySpeakers"
@@ -119,16 +119,6 @@
         properties: {
           app: {
             type: Object,
-            notify: true
-          },
-
-          postsSource: {
-            type: String,
-            value: 'data/blog.json'
-          },
-
-          posts: {
-            type: Array,
             notify: true
           },
 
