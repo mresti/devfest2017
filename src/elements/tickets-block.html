@@ -66,7 +66,7 @@
 
     <div class="container">
       <div class="block-header">
-        <h4 class="heading">{$ ticketsTitle $}</h4>
+        <h4 class="heading" style="color:#fff;">{$ ticketsTitle $}</h4>
       </div>
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
@@ -82,7 +82,7 @@
           </ticket-element>
         </template>
       </div>
-      <div class="details">{$ ticketsDetails $}</div>
+      <div class="details" style="color:#fff;">{$ ticketsDetails $}</div>
       <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
       </a>
