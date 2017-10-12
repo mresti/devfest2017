@@ -186,8 +186,8 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-            <paper-button class="action-button">{$ buyTicket $}</paper-button>
+          <a rel="noopener noreferrer" style="font-weight: bold;" >
+            <paper-button  style="background:#FF4081; color:#fff;" on-tap="_scrollToTickets" class="action-button">{$ buyTicket $}</paper-button>
           </a>
         </div>
       </div>
@@ -237,8 +237,13 @@
           }
         },
 
-        _trackBuyClick: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'toolbar');
+        _scrollToTickets: function () {
+          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
+          Polymer.AppLayout.scroll({
+            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
+            behavior: 'smooth',
+            target: HOVERBOARD.Elements.Scroller
+          });
         }
 
       });
