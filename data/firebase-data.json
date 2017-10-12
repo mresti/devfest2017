@@ -59,28 +59,86 @@
   }],
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
+      "name" : "Israel Blancas",
+      "photoUrl" : "/images/people/israel.jpg",
+      "socials" : [{
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/iblancasa",
         "name" : "Twitter"
-      }, {
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/iblancasa",
+        "name" : "GitHub"
+      },
+       {
         "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
+        "link" : "http://iblancasa.com/",
+        "name" : "Web"
+      },
+      {
+       "icon" : "linkedin",
+       "link" : "https://es.linkedin.com/in/iblancasa",
+       "name" : "LinkedIn"
+       } ],
+      "title" : "Google Developer Group Lead Organizer"
+    },
+    {
+      "name" : "David Sánchez",
+      "photoUrl" : "/images/people/david.jpg",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/koltharius",
+        "name" : "Twitter"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/Koltharius",
+        "name" : "GitHub"
+      }],
+      "title" : "Google Developer Group Organizer"
+    },
+    {
+      "name" : "Cecilia Merelo",
+      "photoUrl" : "/images/people/ceci.jpg",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/CeciMerelo",
+        "name" : "Twitter"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/cecimerelo",
+        "name" : "GitHub"
+      },
+      {
+        "name" : "Cecilia Merelo",
+        "photoUrl" : "/images/people/ceci.jpg",
+        "socials" : [{
+          "icon" : "twitter",
+          "link" : "https://twitter.com/CeciMerelo",
+          "name" : "Twitter"
+        },{
+          "icon" : "github",
+          "link" : "https://github.com/cecimerelo",
+          "name" : "GitHub"
+        }
+      ],
+      "title" : "Google Developer Group Organizer y Women Techmaker Lead Granada"
+    },
+    {
+      "name" : "Ana Martínez",
+      "photoUrl" : "/images/people/ana.jpg",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/IngenierasUGR",
+        "name" : "Twitter"
+      },{
+        "icon" : "github",
+        "link" : "https://github.com/anamarsabi",
+        "name" : "GitHub"
+      }
+    ],
+    "title" : "Google Developer Group Organizer"
     }],
-    "title" : "Core Team"
+    "title" : "Organizadores"
   }],
   "tickets" : {
     "elements" : [{
