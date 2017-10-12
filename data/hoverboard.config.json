@@ -118,7 +118,7 @@
       }
     },
     "speakers": {
-      "title": "Speakers",
+      "title": "Ponentes",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -126,7 +126,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Agenda",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -134,7 +134,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Organizadores",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -142,7 +142,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Código de conducta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
