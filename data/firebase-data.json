@@ -1,0 +1,96 @@
+{
+  "partners" : [{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    } ],
+    "title" : "Patrocinador principal"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-08-11",
+    "dateReadable" : "8 Noviembre",
+    "timeslots" : [ {
+      "endTime" : "10:10",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:30"
+    }],
+    "tracks" : [ {
+      "title" : "Salón de actos"
+    }]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Windows and .NET on Google Cloud Platform "
+    }
+  },
+  "speakers" : [ null, {
+    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "London, United Kingdom",
+    "featured" : false,
+    "id" : 1,
+    "name" : "Mete Atamel",
+    "photoUrl" : "/images/people/mete_atamel.jpg",
+    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/meteatamel/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/meteatamel/",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/meteatamel/",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
+    "title" : "Developer Advocate"
+  }],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Oleh Zasadnyy",
+      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+OlehZasadnyy",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ozasadnyy",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://o.zasadnyy.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Website and sponsors"
+    }],
+    "title" : "Core Team"
+  }],
+  "tickets" : {
+    "elements" : [{
+      "currency" : "€",
+      "ends" : "Nov 8",
+      "name" : "Entrada general",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "Sep 8"
+    } ],
+    "url" : "https://www.meetup.com/es-ES/preview/GDG_Granada/events/242592145"
+  }
+}
