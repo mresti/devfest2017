@@ -1,74 +1,74 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
-  "soldOutTickets": "Sold Out",
+  "title": "GDG DevFest Granada 2017",
+  "description": "El DevFest Granada es uno de los mayores eventos locales sobre programación, desarrollo web, cloud y móvil. ¡Ven a aprender, hacer networking y llevarte algún premio!",
+  "keywords": "granada, spain, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "Noviembre 8, 2017",
+  "locationAddressShort": "Granada, España",
+  "motto": "El evento que estabas esperando",
+  "playIcon": "¿Cómo fue el año pasado?",
+  "c4p": "Ser ponente",
+  "buyTicket": "¡Quiero asistir!",
+  "backToTop": "Volver arriba",
+  "subscribe": "Subscribirse",
+  "yourEmail": "Tu email",
+  "subscribeNote": "No te enviaremos spam",
+  "contactUs": "Contacto",
+  "ticketsTitle": "Entradas",
+  "ticketsDetails": "La entrada solo cubre acceso a las conferencias y talleres",
+  "close": "Cerrado",
+  "soldOutTickets": "¡No quedan entradas!",
   "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "socialMotto": "¡Síguenos en nuestras redes sociales!",
+  "beforeHashtag": "En las redes...",
+  "clickToViewPhotos": "Pulsa para ver más fotos",
+  "partners": "Patrocinadores",
+  "becomePartner": "Ser patrocinador",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
-  "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "featuredPeopleTitle": "Nuestros ponentes",
+  "featuredPeopleViewAll": "Ver todos los ponentes",
+  "action": "Ver cómo fue",
+  "locationTitle": "Escuela Técnica Superior de Ingenierías Informática y Telecomunicación",
+  "locationDescription": "El centro donde se forman los profesionales del futuro",
+  "locationAddress": "Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada",
+  "organizerTitle": "Organizador",
+  "aboutOrganizers": "<a href='https://gdggranada.com' target='_blank'>GDG Granada</a> se enorgullece de organizar este evento por y para la comunidad",
+  "openTeamPage": "Ver equipo",
+  "whatIsGdg": "¿Qué es un GDG?",
+  "aboutGdg": "Google Developers Group (GDG) - es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector",
+  "readMore": "Leer más",
+  "copyLink": "Copiar link",
+  "filteredBy": "filtrado por",
+  "clearAll": "Limpiar todo",
+  "filter": "Filtro",
+  "latestNews": "Últimas noticias",
+  "continueReading": "Seguir leyendo",
+  "viewPresentation": "Ver presentación",
+  "viewVideo": "Ver vídeo",
+  "skills": "Experiencia",
+  "share": "Compartir",
+  "shareWith": "Comparte con",
+  "signIn": "Conectar",
+  "signOut": "Salir",
+  "mySchedule": "Mi agenda",
+  "browseMore": "Buscar más eventos",
+  "youShouldSignInSessions": "Inicia sesión para guardar las sesiones",
+  "youShouldSignInRating": "Inicia sesión para valorar las charlas",
+  "offlineMessage": "Estás offline",
+  "removedFromSchedule": "Eliminado de tu agenda",
+  "addedToSchedule": "Añadido a tu agenda",
+  "rateSession": "Valorar sesión",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Para visitantes",
       "links": [
         {
-          "text": "Team",
+          "text": "Equipo",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Código de conducta",
           "url": "/cod/",
           "newTab": false
         },
@@ -78,33 +78,33 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG Granada",
+          "url": "https://gdggranada.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
+          "text": "ETSIIT",
+          "url": "http://etsiit.ugr.es",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "Universidad de Granada",
+          "url": "http://ugr.es/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Para patrocinadores",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "text": "Proposición de patrocinio",
+          "url": "",
           "newTab": true
         },
         {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "text": "Nota de prensa",
+          "url": "",
           "newTab": true
         }
       ]
@@ -113,28 +113,28 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "contacto@gdggranada.com",
+        "url": "mailto:contacto@gdggranada.com"
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageTitle": "Equipo",
+  "teamPageText": "Google Developer Group Granada es una comunidad de desarrolladores interesados en la tecnología y la difusión de la misma. Mediante nuestros eventos, tratamos de fomentar el intercambio de conocimientos y experiencias en el sector. La participación es totalmente abierta y, generalmente, gratuíta.<br/><br/>GDG Granada es un grupo independiente. Nuestras actividades y opiniones no deben ser relacionadas con la compañía Google.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 200,
+      "caption": "Asistentes"
+    },
+    {
+      "counter": 1,
+      "caption": "Día"
+    },
+    {
+      "counter": "~10",
+      "caption": "Sesiones"
     },
     {
       "counter": 2,
-      "caption": "Days"
-    },
-    {
-      "counter": 30,
-      "caption": "Sessions"
-    },
-    {
-      "counter": 3,
       "caption": "Tracks"
     }
   ]
