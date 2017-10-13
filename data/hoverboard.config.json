@@ -73,17 +73,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "ETSIIT",
+    "address": "Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada",
+    "link": "https://etsiit.ugr.es",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 37.1970567,
+      "longitude": -3.6245114,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 37.1967218,
+      "longitude": -3.6216312
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
